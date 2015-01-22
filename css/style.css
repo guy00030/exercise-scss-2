@@ -1,0 +1,40 @@
+/* line 1, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
+body {
+  background-color: #beb8c0;
+  font-family: sans-serif; }
+
+/* line 6, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
+.primary-btn {
+  background-color: #3498db;
+  border-radius: 3px;
+  padding: 0.5em 1em;
+  margin: 1em;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  color: #fff; }
+  /* line 11, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/mixins */
+  .primary-btn:hover {
+    background-color: #5b535f; }
+
+/* line 10, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
+.secondary-btn {
+  background-color: #aaa;
+  border-radius: 3px;
+  padding: 0.5em 1em;
+  margin: 1em;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  color: #000; }
+  /* line 11, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/mixins */
+  .secondary-btn:hover {
+    background-color: #00ceb3; }
+
+/* line 14, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
+.border, ul {
+  border: 1px solid #00ceb3; }
+  /* line 16, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
+  .border p, ul p {
+    background: green; }
+
