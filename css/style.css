@@ -5,7 +5,7 @@ body {
 
 /* line 6, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
 .primary-btn {
-  background-color: #3498db;
+  background-color: #5b535f;
   border-radius: 3px;
   padding: 0.5em 1em;
   margin: 1em;
@@ -15,7 +15,7 @@ body {
   color: #fff; }
   /* line 11, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/mixins */
   .primary-btn:hover {
-    background-color: #5b535f; }
+    background-color: #ff00ba; }
 
 /* line 10, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
 .secondary-btn {
