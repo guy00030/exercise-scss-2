@@ -1,3 +1,8 @@
+/* line 16, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/mixins */
+body {
+  text-align: center;
+  font-family: helvetica, sans-serif; }
+
 /* line 1, /Users/shawnag/Desktop/3rd Year/Semester 6/Web Dev/Sass/exercise-scss-2/scss/components/main */
 body {
   background-color: #beb8c0;
